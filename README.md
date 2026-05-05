@@ -11,6 +11,18 @@ This project focuses on wireless network security testing using ESP8266 in a con
 * Wireshark (basic analysis)
 * Nmap
 
+💻 Code Implementation
+
+The ESP8266 was programmed to simulate wireless network behavior and test security responses in a controlled lab environment.
+
+Key Features:
+
+* Network scanning and SSID detection
+* Simulated deauthentication testing (for research purposes)
+* Controlled access point setup for behavior analysis
+
+The implementation focuses on understanding vulnerabilities and improving wireless network security awareness.
+
  ⚙️ What I Did
 
 * Configured ESP8266 for wireless testing
